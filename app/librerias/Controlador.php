@@ -1,7 +1,7 @@
 <?php
 
-	/**
-	 * clase controlador principal
+	/*
+	  clase controlador principal
 	 se encarga de poder cargar los modelos y las vistas
 	 */
 	class Controlador{
