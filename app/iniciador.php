@@ -1,9 +1,10 @@
 <?php
-
+	session_start();
 	//cargamos librerias
 	require_once 'config/configurar.php';
 
-
+	//require_once 'helpers/utils.php';
+	require_once 'helpers/url_helpers.php';
 
 	//require_once 'librerias/Base.php';
 	//require_once 'librerias/Controlador.php';

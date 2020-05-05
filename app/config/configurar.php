@@ -1,16 +1,16 @@
 <?php
 	
 	//configuracion de acceso a la base d edatos
-	define('DB_HOST', '35.222.65.165');
+	define('DB_HOST', 'localhost');
 	define('DB_USUARIO', 'root');
-	define('DB_PASSWORD', 'digitalbook');
-	define('DB_NOMBRE', 'mydb');
+	define('DB_PASSWORD', '');
+	define('DB_NOMBRE', 'digitalbook');
 
 
 	//Ruta de la aplicacion
 
 	define('RUTA_APP', dirname(dirname(__FILE__)));
 
-	define('RUTA_URL','http://localhost/libreria/DigitalBook');
+	define('RUTA_URL','http://localhost/DigitalBook');
 
 	define('NOMBRESITIO', 'DigitalBook');

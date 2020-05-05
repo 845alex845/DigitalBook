@@ -1,47 +1,50 @@
 <?php require RUTA_APP .'/view/inc/header.php';?>
-<div class="slider-contenedor">
-                <section class="contenido-slider">
-                    <div class="row ">
-                        <div class="col">
-                            <h5>Tendencia Especial Para Libros</h5>
-                            <h1>TIENDA DE LIBROS EN LINEA</h1>
-                            <a class="btn btn-danger" href="#">COMPRA AHORA</a>
-                        </div>
-                    </div>
-                </section>
-                <section class="contenido-slider">
-                    <div class="row ">
-                        <div class="col">
-                            <h5>Tendencia Especial Para Libros</h5>
-                            <h1>TIENDA DE LIBROS EN LINEA</h1>
-                            <a class="btn btn-danger" href="#">COMPRA AHORA</a>
-                        </div>
-                    </div>
-                </section>
-                <section class="contenido-slider">
-                    <div class="row ">
-                        <div class="col">
-                            <h5>Tendencia Especial Para Libros</h5>
-                            <h1>TIENDA DE LIBROS EN LINEA</h1>
-                            <a class="btn btn-danger" href="#">COMPRA AHORA</a>
-                        </div>
-                    </div>
-                </section>
+ <section class="contenedor">
+           
 
-                <section class="contenido-slider">
-                    <div class="row ">
-                        <div class="col">
-
-                            <h5>Tendencia Especial Para Libros</h5>
-                            <h1>TIENDA DE LIBROS EN LINEA</h1>
-                            <a class="btn btn-danger" href="#">COMPRA AHORA</a>
+    <div class="slider-contenedor">
+                    <section class="contenido-slider">
+                        <div class="row ">
+                            <div class="col">
+                                <h5>Tendencia Especial Para Libros</h5>
+                                <h1>TIENDA DE LIBROS EN LINEA</h1>
+                                <a class="btn btn-danger" href="#">COMPRA AHORA</a>
+                            </div>
                         </div>
-                    </div>
+                    </section>
+                    <section class="contenido-slider">
+                        <div class="row ">
+                            <div class="col">
+                                <h5>Tendencia Especial Para Libros</h5>
+                                <h1>TIENDA DE LIBROS EN LINEA</h1>
+                                <a class="btn btn-danger" href="#">COMPRA AHORA</a>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="contenido-slider">
+                        <div class="row ">
+                            <div class="col">
+                                <h5>Tendencia Especial Para Libros</h5>
+                                <h1>TIENDA DE LIBROS EN LINEA</h1>
+                                <a class="btn btn-danger" href="#">COMPRA AHORA</a>
+                            </div>
+                        </div>
+                    </section>
 
-                </section>
+                    <section class="contenido-slider">
+                        <div class="row ">
+                            <div class="col">
 
-            </div>
-        </section>
+                                <h5>Tendencia Especial Para Libros</h5>
+                                <h1>TIENDA DE LIBROS EN LINEA</h1>
+                                <a class="btn btn-danger" href="#">COMPRA AHORA</a>
+                            </div>
+                        </div>
+
+                    </section>
+
+    </div>
+</section>
         <section class="contenido ">
             <div class="flotante d-none d-md-block">
                 <div class=" flotante-content row justify-content-center text-center">
@@ -660,6 +663,7 @@
 
                 </div>
         </section>
+        
         <section class=" contact px-5">
             <div class="detalle-contact">
                 <h2 data-aos="zoom-in-right">CONTÁCTANOS</h2>

@@ -13,7 +13,7 @@
 	 */
 	class Core
 	{
-		protected $controladorActual = 'paginas';
+		protected $controladorActual = 'Store';
 		protected $metodoActual = 'index';
 		protected $parametros = [];
 

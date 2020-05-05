@@ -1,5 +1,12 @@
-            <!-- empieza footer -->
-            </section>
+        <section class=" contact px-5">
+              <div class="detalle-contact">
+                <h2 data-aos="zoom-in-right">CONTÁCTANOS</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sunt unde ratione, ipsum quas provident?</p>
+                <a class="btn btn-danger" href="">Contactar</a>
+              </div>
+
+            
+        </section>
         <footer>
             <div class=" content-footer d-md-flex flex-md-wrap text-center justify-content-around align-items-start">
                 <div class="col-md-5 col-lg-3 col-xl-3 order-lg-0 order-md-3 px-2 mt-md-5 mt-lg-4">
@@ -16,7 +23,7 @@
                     <span>SU CUENTA</span>
 
                     <ul class="lista mt-4">
-                        <li><a href="">Iniciar Sesión</a></li>
+                        <li><a href="UserController/login">Iniciar Sesión</a></li>
                         <li><a href="">Mi cuenta</a></li>
                         <li><a href="">Nueva Cuenta</a></li>
                         <li><a href="">Lista De Deseos</a></li>
@@ -44,7 +51,7 @@
                         <input class="form-control" type="email" name="" id="" placeholder="Ingrese su email">
                     </div>
 
-                    <a class="sub btn btn-danger" href="">SUSCRIBIR</a>
+                    <a class="sub btn btn-danger" href="UserController/save">SUSCRIBIR</a>
 
                 </div>
             </div>
